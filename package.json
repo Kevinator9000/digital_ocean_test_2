@@ -4,7 +4,7 @@
 	"description": "Emulating an oldschool CRT terminal  with scanlines, flickering text and all the retro good stuff.\n\nInspired by hackertyper and the hacking minigame from the Fallout game series.\n\nSee the article: \n\nhttps://dev.to/ekeijl/retro-crt-terminal-screen-in-css-js-4afh",
 	"main": "index.html",
 	"scripts": {
-		"start": "serve"
+		"start": "serve": "build"
 	},
 	"keywords": [],
 	"author": "Edwin Keijl",
